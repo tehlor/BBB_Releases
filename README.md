@@ -7,6 +7,8 @@
 | F1   | Reload level        |
 | Left Click   | Move        |
 | (Q, W, E, or R) + Left Click | Action        |
+| ScrollWheel   | Zoom Control        |
+| Hold Middle Mouse   | Orbit        |
 
 ## Release Log
 ### 0.1.1 - February 6th 2020
