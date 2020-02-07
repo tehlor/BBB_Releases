@@ -1,2 +1,1 @@
-# BBB_Releases
-BringBackBounty releases
+# BringBackBounty releases
