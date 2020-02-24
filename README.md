@@ -11,7 +11,13 @@
 | Hold Middle Mouse   | Orbit        |
 
 ## Release Log
-### pre-alpha Feb. 16 2020
+### 2020.02.23
+New:
+- Ships can be designed and saved.
+- Levels now hold the enemy information.
+- Cleaned up some things.
+
+### pre-alpha
 Note: 
 - Actions Q, W, E and R all do different things:
     - Q is a 6 count radial mine drop. Requires your ship to slow to 10% speed for 3 secs to release.
@@ -27,7 +33,7 @@ New:
 - Speed Bar in game:
     - Blue indicates active speed, yellow is a temporary reduction based on time, and red is permanent damage.
 
-### 0.1.1 - February 6th 2020
+### first - February 6th 2020
 Note: 
 - Actions Q & W are identical
 - Actions E & R are identical
